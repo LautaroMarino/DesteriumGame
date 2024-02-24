@@ -1,14 +1,13 @@
-[![Conoce Desterium Game en videos como el siguiente](http://img.youtube.com/vi/Mkytb78znQQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=Mkytb78znQQ)
+
+![Texto alternativo](https://i.imgur.com/ghb1yvD.png)
 
 # DesteriumGame
 Servidor y Cliente Funcional 2024. Códigos completos y funcionales. Recursos actualizados
 
 ## Descripción
-
 Liberación Oficial de Desterium Game. Un servidor de Argentum Online creado por Lautaro Marino y basado en la versión 0.13.3 de Argentum Online hasta antes de su desapareción.
 
 ## Especificaciones
-
 1. Librería Aurora.Network.dll (Protocolo Binario + envio de datos)
 2. Librería Aurora.Multimedia.dll (Engine dx9 con TextureAtlas interno)
 3. Librería Aurora.Collision.dll (Librería utilizada para las áreas del juego)
@@ -21,11 +20,11 @@ Liberación Oficial de Desterium Game. Un servidor de Argentum Online creado por
 10. Elección de Resolución clásica-moderna.
 11. Arreglos a los errores más conocidos en el código de Argentum Online.
    
-## Capturas de pantalla / Videos de Pantalla
+## Jugabilidad en un VIDEO
 Puedes ver una demostración de mi proyecto en el siguiente video de YouTube:
+[![Conoce Desterium Game en videos como el siguiente](http://img.youtube.com/vi/Mkytb78znQQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=Mkytb78znQQ)
 
 ## Contribución
-
 Agradezco todas las contribuciones que deseen realizar y estoy abierto a propuestas laborales.
 - Nombre y Apellido: Lautaro Leonel Marino
 - CBU: 1430001713035225780019
