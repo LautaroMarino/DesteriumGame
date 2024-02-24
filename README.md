@@ -34,6 +34,7 @@ Agradezco todas las contribuciones que deseen realizar y estoy abierto a propues
 
 ## Créditos
 
+- Agustin Alvarez (Wolftein). Fue quien creó las 3 librerías que mencioné, sin él muchos no tendríamos las mejoras que el AO necesita para poder seguir siendo utilizado desde VB6. ¡Gracias AGUS! Eternamente agradecido.
 - Lautaro Leonel Marino (LION-LITO)
 - Santiago Ezequiel Schira (Klipper)
 - Marcos Montiel Ezequiel (Robo los gráficos de todos los servidores que le habian confiado sus recursos y los indexó 1x1 en Desterium, no me enorgullece pero utilizo su creativdad para montar el mundo nuevo y le salió excelente)
