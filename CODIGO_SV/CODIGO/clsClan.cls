@@ -579,6 +579,7 @@ Public Function GetCodex(ByVal CodexNumber As Integer) As String
 End Function
 
 Public Sub SetURL(ByRef URL As String)
+    Call ReplaceInvalidChars(Desc) ' @@ Prevent injections
     Call WriteVar(GUILDINFOFILE, "GUILD" & p_GuildNumber, "URL", Left$(URL, 40))
 End Sub
 
@@ -734,7 +735,7 @@ Public Function RevisarElecciones() As Boolean
 
             If CantGanadores > 1 Then
                 'empate en la votacion
-                Call SetGuildNews("*Empate en la votación. " & Ganador & " con " & CantGanadores & " votos ganaron las elecciones del clan.")
+                Call SetGuildNews("*Empate en la votaciÃ³n. " & Ganador & " con " & CantGanadores & " votos ganaron las elecciones del clan.")
             ElseIf CantGanadores = 1 Then
                 List = Me.GetMemberList()
                 
@@ -744,15 +745,15 @@ Public Function RevisarElecciones() As Boolean
                 Next i
                 
                 If i <= UBound(List()) Then
-                    Call SetGuildNews("*" & Ganador & " ganó la elección del clan*")
+                    Call SetGuildNews("*" & Ganador & " ganÃ³ la elecciÃ³n del clan*")
                     Call Me.SetLeader(Ganador)
                     RevisarElecciones = True
                 Else
-                    Call SetGuildNews("*" & Ganador & " ganó la elección del clan pero abandonó las filas por lo que la votación queda desierta*")
+                    Call SetGuildNews("*" & Ganador & " ganÃ³ la elecciÃ³n del clan pero abandonÃ³ las filas por lo que la votaciÃ³n queda desierta*")
                 End If
 
             Else
-                Call SetGuildNews("*El período de votación se cerró sin votos*")
+                Call SetGuildNews("*El perÃ­odo de votaciÃ³n se cerrÃ³ sin votos*")
             End If
             
             Call CerrarElecciones
@@ -1029,8 +1030,8 @@ Private Sub ReplaceInvalidChars(ByRef S As String)
         S = Replace(S, Chr$(10), vbNullString)
     End If
 
-    If InStrB(S, "¬") <> 0 Then
-        S = Replace(S, "¬", vbNullString)   'morgo usaba esto como "separador"
+    If InStrB(S, "Â¬") <> 0 Then
+        S = Replace(S, "Â¬", vbNullString)   'morgo usaba esto como "separador"
     End If
 
 End Sub
