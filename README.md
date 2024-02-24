@@ -40,7 +40,7 @@ Agradezco todas las contribuciones que deseen realizar y estoy abierto a propues
 - Cristian (Crisos) Persona que apoyó el proyecto gracias a su profesionalidad en el diseño gráfico y creación de animaciones. Impulsor de la resolución de 1920x1080.
 
 ## Contrataciones
-Como desarrollador FreeLance estoy abierto a propuestas de proyectos relevantes interesados en la resolución de problemas de rápida eficacia, modificación de códigos existentes, mejoras y optimizaciones. Uso de BASE DE DATOS sql y conocedor de memoria del código de Argentum Online 0.13.3
+Como desarrollador Freelance estoy abierto a propuestas de proyectos relevantes interesados en la resolución de problemas de rápida eficacia, modificación de códigos existentes, mejoras y optimizaciones. Uso de BASE DE DATOS sql y conocedor de memoria del código de Argentum Online 0.13.3
 Envíame tu propuesta a marinolauta@gmail.com
 ¡Tene tu propio servidor! Estabilidad garantizada, seguridad absoluta.
 
