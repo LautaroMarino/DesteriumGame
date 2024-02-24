@@ -19,7 +19,9 @@ Liberación Oficial de Desterium Game. Un servidor de Argentum Online creado por
 9. Muchos sistemas clásicos de Argentum y otros novedosos totalmente nuevos.
 10. Elección de Resolución clásica-moderna.
 11. Arreglos a los errores más conocidos en el código de Argentum Online.
-   
+
+
+
 ## Jugabilidad en un VIDEO
 Puedes ver una demostración de mi proyecto en el siguiente video de YouTube:
 [![Conoce Desterium Game en videos como el siguiente](http://img.youtube.com/vi/Mkytb78znQQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=Mkytb78znQQ)
@@ -44,3 +46,6 @@ Envíame tu propuesta a marinolauta@gmail.com
 
 ## Licencia
 Este proyecto continúa con la licencia original del Juego Argentum Online. Dicha licencia corresponde a 
+
+# Mundo NUEVO
+![Texto alternativo](https://i.imgur.com/cKda5Qj.jpeg)
