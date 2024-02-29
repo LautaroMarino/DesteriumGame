@@ -37,7 +37,7 @@ Agradezco todas las contribuciones que deseen realizar y estoy abierto a propues
 - Agustin Alvarez (Wolftein). Fue quien creó las 3 librerías que mencioné, sin él muchos no tendríamos las mejoras que el AO necesita para poder seguir siendo utilizado desde VB6. ¡Gracias AGUS! Eternamente agradecido.
 - Lautaro Leonel Marino (LION-LITO)
 - Santiago Ezequiel Schira (Klipper)
-- Marcos Montiel Ezequiel (Agarró los gráficos de todos los servidores que él tenía y los indexó 1x1 en Desterium, no me enorgullece pero utilizo su creativdad para montar el mundo nuevo y le salió excelente)
+- Marcos Montiel Ezequiel (Durante varios años consiguió por manos de otras personas diferentes recursos, algunos liberados y otros no, donde los indexó 1x1 para Desterium Genio total, delincuente juvenil)
 - Cristian (Crisos) Persona que apoyó el proyecto gracias a su profesionalidad en el diseño gráfico y creación de animaciones. Impulsor de la resolución de 1920x1080.
 
 ## Contrataciones
