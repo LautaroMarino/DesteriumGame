@@ -37,13 +37,8 @@ Agradezco todas las contribuciones que deseen realizar y estoy abierto a propues
 - Agustin Alvarez (Wolftein). Fue quien creó las 3 librerías que mencioné, sin él muchos no tendríamos las mejoras que el AO necesita para poder seguir siendo utilizado desde VB6. ¡Gracias AGUS! Eternamente agradecido.
 - Lautaro Leonel Marino (LION-LITO)
 - Santiago Ezequiel Schira (Klipper)
-- Marcos Montiel Ezequiel (Durante varios años consiguió por manos de otras personas diferentes recursos, algunos liberados y otros no, donde los indexó 1x1 para Desterium Genio total, delincuente juvenil)
+- Marcos Montiel Ezequiel (MELKOR - Administrador, creación de mundos, balance y desarrollo de sistemas)
 - Cristian (Crisos) Persona que apoyó el proyecto gracias a su profesionalidad en el diseño gráfico y creación de animaciones. Impulsor de la resolución de 1920x1080.
-
-## Contrataciones
-Como desarrollador Freelance estoy abierto a propuestas de proyectos relevantes interesados en la resolución de problemas de rápida eficacia, modificación de códigos existentes, mejoras y optimizaciones. Uso de BASE DE DATOS sql y conocedor de memoria del código de Argentum Online 0.13.3
-Envíame tu propuesta a marinolauta@gmail.com
-¡Tene tu propio servidor! Estabilidad garantizada, seguridad absoluta.
 
 ## Licencia
 Este proyecto continúa con la licencia original del Juego Argentum Online. Dicha licencia corresponde a 
